@@ -1,12 +1,5 @@
 # ml-project-2-ctgvzw
 
-Corentin Tissier
-Germain Vu
-Zechen Wu
-
-## Data  
-We have signed a non disclosure agreement, so we cannot share the datasets that we have used
-
 ## Tabular Model
 We have used a random forest to deal with the tabular datas, the complete pipeline including the preprocessing can be found in Random_forest.ipynb  
 
